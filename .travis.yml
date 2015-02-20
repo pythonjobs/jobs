@@ -4,4 +4,5 @@ python:
 # command to install dependencies
 install: 
   - git clone https://github.com/pythonjobs/template.git ../template
-script: ../template/build .
+  - pip install -r ../template/requirements.txt
+script: ../template/build.py .
