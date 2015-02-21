@@ -7,7 +7,6 @@ install:
 script: ../template/build.py .
 after_script: 
   - git clone https://$GH_TOKEN@github.com/pythonjobs/uk.git ../dest
-  - git checkout gh-pages
   - ../template/deploy.py ../dest
 env:
   global:
