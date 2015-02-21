@@ -1,8 +1,14 @@
 language: python
 python:
-  - "2.7"
-# command to install dependencies
-install: 
+- '2.7'
+install:
   - git clone https://github.com/pythonjobs/template.git ../template
   - pip install -r ../template/requirements.txt
 script: ../template/build.py .
+after_script: 
+  - git clone https://$GH_TOKEN@github.com/pythonjobs/uk.git ../dest
+  - git checkout gh-pages
+  - ../template/deploy.py ../dest
+env:
+  global:
+    secure: rbKKRjTkVgPidtxLGLR7wqh1PZHArlksitDkE1hZN6I6vt0/OJKDYxSm49C9TcS8tyBKqT5Prnrz6VqjWLW7E0YNwDFvliH445S2DzCj8jvMbCZK+PbcKNZbosakBIj2O1qCANoeWenh6Gjo6mX5nFozZx76OtFD71RSOVWko8s=
