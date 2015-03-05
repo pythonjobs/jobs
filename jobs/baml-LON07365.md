@@ -46,13 +46,3 @@ The company has had a presence in EMEA since 1922. With offices in 23 countries 
 We are an equal opportunities employer and positively encourage applications from suitably qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, or religion or belief.
 
 
-
-
-
-
-
-Posting Date: 
-
-Location: London
-
-Full / Part-time: Full Time
