@@ -40,6 +40,6 @@ To preview your submission before creating a Review-request, there are a number 
 
 1. Install hyde - hyde.github.io <code>pip install hyde</code>
 2. clone/checkout the https://github.com/pythonjobs/template repository
-3. Within this clone, put your new file in <code>hyde/content/jobs/<job_filename>.md
+3. Within this clone, put your new file in <code>hyde/content/jobs/[job_filename].html
 4. from within <code>hyde/</code>, run <code>hyde serve</code>
 5. Open a web browser, and navigate to http://localhost:8080/
