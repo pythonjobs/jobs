@@ -15,6 +15,8 @@ All adverts are held as markdown files, with an added header, under the jobs/ di
 title: <Job Advert Title (required)>
 company: <Your Company (required)>
 url: <Link to your site/a job spec (optional)>
+location: <where is the job based? >
+contract: permanent (or contract/temporary/part-time ..)
 contact:
     name: <Your name (required)>
     email: <Email address applicants should submit to (required)>
