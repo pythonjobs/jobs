@@ -10,6 +10,7 @@ This jobs board is generated automatically from this git repository, and hosted 
 
 All adverts are held as markdown files, with an added header, under the jobs/ directory.  Jobs files should look something like this:
 
+
 ```
 ---
 title: <Job Advert Title (required)>
