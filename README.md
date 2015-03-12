@@ -41,7 +41,8 @@ When each pull request is submitted, it gets validated, and then manually review
 To preview your submission before creating a Review-request, there are a number of steps to follow:
 
 1. Install hyde - hyde.github.io <code>pip install hyde</code>
-2. clone/checkout the https://github.com/pythonjobs/template repository
-3. Within this clone, put your new file in <code>hyde/content/jobs/[job_filename].html
-4. from within <code>hyde/</code>, run <code>hyde serve</code>
-5. Open a web browser, and navigate to http://localhost:8080/
+2. Install fin - <code>pip install fin</code>
+3. clone/checkout the https://github.com/pythonjobs/template repository
+4. Within this clone, put your new file in <code>hyde/content/jobs/[job_filename].html
+5. from within <code>hyde/</code>, run <code>hyde serve</code>
+6. Open a web browser, and navigate to http://localhost:8080/
