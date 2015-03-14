@@ -50,17 +50,34 @@ To preview your submission before creating a Review-request, there are a number 
 
 # Frequently Asked Questions
 
+### How do I see the job board?
+
+Go here: http://pythonjobs.github.io/
+
 ### How does this site make money?
 
-It doesn't. This is intended to be an free forever service to Python developers and the companies that wisely employ them. We don't want to make any money out of this site but we do want to help people find great jobs and help companies find great employees and contractors.
+It doesn't. This is intended to be an free forever service to Python developers and the companies that wisely employ them.
+
+
+We don't want to make any money out of this site but we do want to help people find great jobs and help companies find great people to work for them.
 
 ### So why are you doing this?
 
-We want to make the world a better place for Python developers and for companies that hire Python developers. When the python.org jobs service stopped working in 2014 we wanted to build an alternative that was completely free, had no advertising and performed a similar kind of service.
+We want to make the world a better place for the whole Python development community. 
+
+When the python.org jobs service stopped working in 2014 we wanted to build an alternative that was completely free, had no advertising and performed a similar kind of service.
+
+### How can you make this site free when others charge?
+
+This site is run like an open-source software project. We use the same features from GitHub that many software projects use to manage the code and content of our site. We use Travis to build the pages and we host the site on GitHub - all of which is totally free.
+
+In other words - by taking the very best free software technology we've created a the very best kind of free job board. 
 
 ### How does this site work?
 
-It's a static web-site. Any time a GitHub pull request is merged it will automatically compile and update our pages on github.io. You can see the status of the latest build here: https://travis-ci.org/pythonjobs/jobs
+It's a static web-site. Any time a GitHub pull request is merged it will automatically recompile and update our pages on github.io. 
+
+You can see the status of the latest build here: https://travis-ci.org/pythonjobs/jobs
 
 ### I'm an agent/headhunter/recruitment consultant, can I use this site?
 
@@ -70,7 +87,9 @@ Yes, but provided you are clear about the following details:
 
 ### There's an error or some other problem with one of the job adverts, what should I do?
 
-If you know how to make a github pull request, please just fix the problem yourself. If you don't know how to do this please raise an issue via the GitHub issue tracker: https://github.com/pythonjobs/jobs/issues
+If you know how to make a github pull request, please just fix the problem yourself.
+
+If you don't know how to do this please raise an issue via the GitHub issue tracker: https://github.com/pythonjobs/jobs/issues
 
 ### I want to use the source code to make a rival job site, is that OK?
 
