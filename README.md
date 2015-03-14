@@ -44,5 +44,6 @@ To preview your submission before creating a Review-request, there are a number 
 2. Install fin - <code>pip install fin</code>
 3. clone/checkout the https://github.com/pythonjobs/template repository
 4. Within this clone, put your new file in <code>hyde/content/jobs/[job_filename].html
-5. from within <code>hyde/</code>, run <code>hyde serve</code>
-6. Open a web browser, and navigate to http://localhost:8080/
+5. Delete the contents of the <code>deploy</code> directory.
+6. from within <code>hyde/</code>, run <code>hyde serve</code>
+7. Open a web browser, and navigate to http://localhost:8080/
