@@ -79,11 +79,13 @@ It's a static web-site. Any time a GitHub pull request is merged it will automat
 
 You can see the status of the latest build here: https://travis-ci.org/pythonjobs/jobs
 
-### I'm an agent/headhunter/recruitment consultant, can I use this site?
+### I'm an (agent|headhunter|recruitment consultant), can I use this site?
 
 Yes, but provided you are clear about the following details:
 * You need to be clear about the company you are recruiting for. So for example you cannot give "Top Tier Investment Bank" or "Awesome Media Agency" as the name of the company.
 * You need to include the name of your agency
+
+... And you need to learn how to do a GitHub pull request. 
 
 ### There's an error or some other problem with one of the job adverts, what should I do?
 
