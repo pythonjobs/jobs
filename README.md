@@ -75,3 +75,7 @@ If you know how to make a github pull request, please just fix the problem yours
 ### I want to use the source code to make a rival job site, is that OK?
 
 Fine but we'd much rather you help make this project better. Join us.
+
+### Can I see some stats for your site?
+
+Sure, here: http://www.seethestats.com/site/pythonjobs.github.io
