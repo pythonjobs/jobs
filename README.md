@@ -52,13 +52,17 @@ The easiest way to preview your submission is to build the site locally. You can
 
 ### How do I see the job board?
 
-Go here: http://pythonjobs.github.io/
+Go here: [The Free Python Job Board](http://pythonjobs.github.io/)
+
+### I'm in ${Country}, can I use this site?
+
+Yes, this is an international job board. 
 
 ### How does this site make money?
 
 It doesn't. This is intended to be an free forever service to Python developers and the companies that wisely employ them.
 
-We don't want to make any money out of this site but we do want to help people find great jobs and help companies find great people to work for them.
+We don't want to make any money out of this site.  We do want to help people find great jobs and help companies find great people to work for them.
 
 ### Why are you doing this?
 
