@@ -38,7 +38,7 @@ When each pull request is submitted, it gets validated, and then manually review
 
 # Previewing your submission
 
-To preview your submission before creating a Review-request, there are a number of steps to follow:
+The easiest way to preview your submission is to build the site locally. You can use almost the exact same process we use to build the site on your own PC:
 
 1. Install hyde - hyde.github.io <code>pip install hyde</code>
 2. Install fin - <code>pip install fin</code>
@@ -52,16 +52,19 @@ To preview your submission before creating a Review-request, there are a number 
 
 ### How do I see the job board?
 
-Go here: http://pythonjobs.github.io/
+Go here: [The Free Python Job Board](http://pythonjobs.github.io/)
+
+### I'm in ${Country}, can I use this site?
+
+Yes, this is an international job board. 
 
 ### How does this site make money?
 
 It doesn't. This is intended to be an free forever service to Python developers and the companies that wisely employ them.
 
+We don't want to make any money out of this site.  We do want to help people find great jobs and help companies find great people to work for them.
 
-We don't want to make any money out of this site but we do want to help people find great jobs and help companies find great people to work for them.
-
-### So why are you doing this?
+### Why are you doing this?
 
 We want to make the world a better place for the whole Python development community. 
 
@@ -71,19 +74,22 @@ When the python.org jobs service stopped working in 2014 we wanted to build an a
 
 This site is run like an open-source software project. We use the same features from GitHub that many software projects use to manage the code and content of our site. We use Travis to build the pages and we host the site on GitHub - all of which is totally free.
 
-In other words - by taking the very best free software technology we've created a the very best kind of free job board. 
+In other words - by taking the very best free software technology we've created a the very best job board for people who love free software. 
 
 ### How does this site work?
 
 It's a static web-site. Any time a GitHub pull request is merged it will automatically recompile and update our pages on github.io. 
 
-You can see the status of the latest build here: https://travis-ci.org/pythonjobs/jobs
+You can see the [status of the latest build on Travis](https://travis-ci.org/pythonjobs/jobs).
 
-### I'm an agent/headhunter/recruitment consultant, can I use this site?
+### I'm an (agent|headhunter|recruitment consultant), can I use this site?
 
 Yes, but provided you are clear about the following details:
+
 * You need to be clear about the company you are recruiting for. So for example you cannot give "Top Tier Investment Bank" or "Awesome Media Agency" as the name of the company.
 * You need to include the name of your agency
+
+... And you need to learn how to do a GitHub pull request. 
 
 ### There's an error or some other problem with one of the job adverts, what should I do?
 
@@ -91,9 +97,9 @@ If you know how to make a github pull request, please just fix the problem yours
 
 If you don't know how to do this please raise an issue via the GitHub issue tracker: https://github.com/pythonjobs/jobs/issues
 
-### I want to use the source code to make a rival job site, is that OK?
+### I want to use the source code to make a rival job board, is that OK?
 
-Fine but we'd much rather you help make this project better. Join us.
+Fine. Our content and code are freely available. Take it if you want, but we'd much rather you help make this project better.
 
 ### Can I see some stats for your site?
 
