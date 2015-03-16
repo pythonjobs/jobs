@@ -2,7 +2,7 @@
  
 Welcome to the pythonjobs submission repository.  This board has been set up as a community resource to help companies recruit, and candidates find jobs.  There are no charges or fees for posting, and submitting a job advert is simple, and easy to do.
 
-At this time we are only inviting companies looking to hire for their own staff to submit jobs.  This means that all adverts must display the contact details of someone in the company that candidates will end up working for.  Recruitment agencies may not submit adverts to this board.
+We will accept any job postings provided they contain full relevant information. This means that all adverts must display the details of the company that candidates will end up working for. Recruitment agencies may submit adverts to this board as long as they do not obscure details of the roles. Also, the maintainers of this repository offer no support with git/Markdown/YAML/pull requests etc. We will only accept and merge pull requests as described below and reserve the discretion not to accept postings deemed not to meet our quality guidelines.
 
 ## Submitting an advert
 
