@@ -58,6 +58,10 @@ Go here: [The Free Python Job Board](http://pythonjobs.github.io/)
 
 Yes, this is an international job board. 
 
+### Why all this GitHub stuff? Can you add a form to submit jobs instead?
+
+No, this site is built by developers for developers. GitHub is the way that most open source software projects are run. We don't want to force our users to adopt an entirely new workflow. [Git is easier than you think](http://rogerdudler.github.io/git-guide/).
+
 ### How does this site make money?
 
 It doesn't. This is intended to be an free forever service to Python developers and the companies that wisely employ them.
@@ -82,14 +86,9 @@ It's a static web-site. Any time a GitHub pull request is merged it will automat
 
 You can see the [status of the latest build on Travis](https://travis-ci.org/pythonjobs/jobs).
 
-### I'm an (agent|headhunter|recruitment consultant), can I use this site?
+### I'm an (agent|headhunter|recruitment consultant|IT Consultancy), can I still use this site?
 
-Yes, but provided you are clear about the following details:
-
-* You need to be clear about the company you are recruiting for. So for example you cannot give "Top Tier Investment Bank" or "Awesome Media Agency" as the name of the company.
-* You need to include the name of your agency
-
-... And you need to learn how to do a GitHub pull request. 
+Yes, but you must include the name of your client - where the candidatw will ultimately be working. If you don't include this information your job advert may be rejected or deleted.
 
 ### There's an error or some other problem with one of the job adverts, what should I do?
 
