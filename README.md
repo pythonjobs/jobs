@@ -88,7 +88,7 @@ You can see the [status of the latest build on Travis](https://travis-ci.org/pyt
 
 ### I'm an (agent|headhunter|recruitment consultant|IT Consultancy), can I still use this site?
 
-Yes, but you must include the name of your client - where the candidatw will ultimately be working. If you don't include this information your job advert may be rejected or deleted.
+Yes, but you must include the name of your client - where the candidate will ultimately be working. If you don't include this information your job advert may be rejected or deleted.
 
 ### There's an error or some other problem with one of the job adverts, what should I do?
 
