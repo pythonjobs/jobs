@@ -35,11 +35,20 @@ tags:
 Full job description here, in Markdown format
 ```
 
-The easiest way to add the job is to (create a new file in our repo)[https://github.com/pythonjobs/jobs/new/master/jobs], and simply paste in the text of your job ad.
+The easiest way to add the job is to [create a new file in our repo](https://github.com/pythonjobs/jobs/new/master/jobs), and simply paste in the text of your job ad.
 
-When you've finished edting you can make a pull-request directly from the web form.
+When you've finished edting you can choose a sensible name for the file. Good names usually include your company (or agnency) name along with a helpful reference. Examples of sensible names include:
 
-When each pull request is submitted, it gets validated, and then manually reviewed, before being added to the site. If the validation fails you will get a message via GitHub. You can edit the file again, and resubmit.
+* baml_london_contract_12345.html
+* foocorp_houston_tx_django_0.html
+
+Next make a pull-request directly from the web form.
+
+When a pull request is submitted, it gets validated, and then manually reviewed, before being added to the site. If the validation fails you will get a message via GitHub. 
+
+You can edit the file again, and resubmit.
+
+If you know how to use Git you can also clone this repo, and use the normal GitHub pull-request process.
 
 # Frequently Asked Questions
 
@@ -50,6 +59,16 @@ Go here: [The Free Python Job Board](http://pythonjobs.github.io/)
 ### I'm in ${Country}, can I use this site?
 
 Yes, this is an international job board.
+
+### I'm an (agent|headhunter|recruitment consultant|IT Consultancy), can I still use this site?
+
+Yes, but you must include the name of your client - where the candidate will ultimately be working. If you don't include this information your job advert may be rejected or deleted.
+
+### There's an error or some other problem with one of the job adverts, what should I do?
+
+Edit the page and make a pull request directly from GitHub.
+
+If you don't know how to do this please raise an issue via the GitHub issue tracker: https://github.com/pythonjobs/jobs/issues
 
 ### Why all this GitHub stuff? Can you add a form to submit jobs instead?
 
@@ -77,19 +96,11 @@ In other words - by taking the very best free software technology we've created 
 
 ### How does this site work?
 
+Simplicity--the art of maximizing the amount of work not done is essential. This website is the simplest possible solution that does the job.
+
 It's a static web-site. Any time a GitHub pull request is merged it will automatically recompile and update our pages on github.io.
 
 You can see the [status of the latest build on Travis](https://travis-ci.org/pythonjobs/jobs).
-
-### I'm an (agent|headhunter|recruitment consultant|IT Consultancy), can I still use this site?
-
-Yes, but you must include the name of your client - where the candidate will ultimately be working. If you don't include this information your job advert may be rejected or deleted.
-
-### There's an error or some other problem with one of the job adverts, what should I do?
-
-Edit the page and make a pull request directly from GitHub.
-
-If you don't know how to do this please raise an issue via the GitHub issue tracker: https://github.com/pythonjobs/jobs/issues
 
 ### I want to use the source code to make a rival job board, is that OK?
 
