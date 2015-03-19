@@ -70,7 +70,7 @@ If you don't know how to do this please raise an issue via the GitHub issue trac
 
 ### Why all this GitHub stuff? Can you add a form to submit jobs instead?
 
-You dont need to know how to use Git to use Github - you can easily submit a new job (directly from the web-editor)[https://github.com/pythonjobs/jobs/new/master/jobs].
+You don't need to know how to use Git to use Github - you can easily submit a new job [directly from the web-editor](https://github.com/pythonjobs/jobs/new/master/jobs).
 
 Git is a system designed by programmers for programmers - they are primary audience for this site.
 
