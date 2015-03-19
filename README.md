@@ -1,5 +1,5 @@
 # Pythonjobs submission repo [![Build Status](https://travis-ci.org/pythonjobs/jobs.svg)](https://travis-ci.org/pythonjobs/jobs)
- 
+
 Welcome to the pythonjobs submission repository.  This board has been set up as a community resource to help companies recruit, and candidates find jobs.  There are no charges or fees for posting, and submitting a job advert is simple, and easy to do.
 
 We will accept any job postings provided they contain full relevant information. This means that all adverts must display the details of the company that candidates will end up working for. Recruitment agencies may submit adverts to this board as long as they do not obscure details of the roles. Also, the maintainers of this repository offer no support with git/Markdown/YAML/pull requests etc. We will only accept and merge pull requests as described below and reserve the discretion not to accept postings deemed not to meet our quality guidelines.
@@ -56,7 +56,7 @@ Go here: [The Free Python Job Board](http://pythonjobs.github.io/)
 
 ### I'm in ${Country}, can I use this site?
 
-Yes, this is an international job board. 
+Yes, this is an international job board.
 
 ### Why all this GitHub stuff? Can you add a form to submit jobs instead?
 
@@ -70,7 +70,7 @@ We don't want to make any money out of this site.  We do want to help people fin
 
 ### Why are you doing this?
 
-We want to make the world a better place for the whole Python development community. 
+We want to make the world a better place for the whole Python development community.
 
 When the python.org jobs service stopped working in 2014 we wanted to build an alternative that was completely free, had no advertising and performed a similar kind of service.
 
@@ -78,11 +78,11 @@ When the python.org jobs service stopped working in 2014 we wanted to build an a
 
 This site is run like an open-source software project. We use the same features from GitHub that many software projects use to manage the code and content of our site. We use Travis to build the pages and we host the site on GitHub - all of which is totally free.
 
-In other words - by taking the very best free software technology we've created a the very best job board for people who love free software. 
+In other words - by taking the very best free software technology we've created a the very best job board for people who love free software.
 
 ### How does this site work?
 
-It's a static web-site. Any time a GitHub pull request is merged it will automatically recompile and update our pages on github.io. 
+It's a static web-site. Any time a GitHub pull request is merged it will automatically recompile and update our pages on github.io.
 
 You can see the [status of the latest build on Travis](https://travis-ci.org/pythonjobs/jobs).
 
