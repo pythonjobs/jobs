@@ -2,13 +2,11 @@
 
 Welcome to the pythonjobs submission repository.  This board has been set up as a community resource to help companies recruit, and candidates find jobs.  There are no charges or fees for posting, and submitting a job advert is simple, and easy to do.
 
-We will accept any job postings provided they contain full relevant information. This means that all adverts must display the details of the company that candidates will end up working for. Recruitment agencies may submit adverts to this board as long as they do not obscure details of the roles. Also, the maintainers of this repository offer no support with git/Markdown/YAML/pull requests etc. We will only accept and merge pull requests as described below and reserve the discretion not to accept postings deemed not to meet our quality guidelines.
-
 ## Submitting an advert
 
-This jobs board is generated automatically from this git repository, and hosted using github pages.
+All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files. 
 
-All adverts are held as markdown files, with an added header, under the jobs/ directory.  Jobs files should look something like this:
+You can use this text as a template for your job ad, simply copy this example and modify it for your own post - preserving the indentation:
 
 ```
 ---
@@ -26,18 +24,20 @@ created: !!timestamp '2015-02-20' <- The date the job was submitted
 tags:
   - london
   - england
+  - uk
   - python
   - sql
-  - django
-  - <add as many tags as you want!>
+  - django <- include as many tags as you want
 ---
+
+# This is a header
 
 Full job description here, in Markdown format
 ```
 
 The easiest way to add the job is to [create a new file in our repo](https://github.com/pythonjobs/jobs/new/master/jobs), and simply paste in the text of your job ad.
 
-When you've finished edting you can choose a sensible name for the file. Good names usually include your company (or agnency) name along with a helpful reference. Examples of sensible names include:
+When you've finished edting you can choose a sensible name for the file. Good names usually include your company (or agnency) name along with a helpful reference. These are examples of good names:
 
 * baml_london_contract_12345.html
 * foocorp_houston_tx_django_0.html
@@ -46,9 +46,7 @@ Next make a pull-request directly from the web form.
 
 When a pull request is submitted, it gets validated, and then manually reviewed, before being added to the site. If the validation fails you will get a message via GitHub. 
 
-You can edit the file again, and resubmit.
-
-If you know how to use Git you can also clone this repo, and use the normal GitHub pull-request process.
+If something went wrong, you can edit the file again, and resubmit.
 
 # Frequently Asked Questions
 
