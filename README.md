@@ -4,7 +4,7 @@ Welcome to the pythonjobs submission repository.  This board has been set up as 
 
 ## Submitting an advert
 
-All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files. 
+All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files.
 
 You can use this text as a template for your job ad, simply copy this example and modify it for your own post - preserving the indentation:
 
