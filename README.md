@@ -43,7 +43,7 @@ When you've finished edting you can choose a sensible name for the file. Good na
 
 Next make a pull-request directly from the web form.
 
-When a pull request is submitted, it gets validated, and then manually reviewed, before being added to the site. If the validation fails you will get a message via GitHub. 
+When a pull request is submitted, it gets validated, and then manually reviewed, before being added to the site. If the validation fails you will get a message via GitHub.
 
 If something went wrong, you can edit the file again, and resubmit.
 
