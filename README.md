@@ -19,7 +19,6 @@ contact:
     name: <Your name (required)>
     email: <Email address applicants should submit to (required)>
     phone: <Phone number (optional)
-    ...: ...
 created: !!timestamp '2015-02-20' <- The date the job was submitted
 tags:
   - london
