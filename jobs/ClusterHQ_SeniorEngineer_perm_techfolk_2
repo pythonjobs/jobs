@@ -1,20 +1,23 @@
-title: <Senior & Lead Software Engineers: Python | Go | Twisted>
-company: <ClusterHQ>
+title: Senior & Lead Software Engineer | help solve containerisation | relocation offered
+company: ClusterHQ
 url: http://techfolk.co.uk/current-jobs/senior-software-engineer-central-bristol-tl69
-location: <Bristol,England>
+location: Bristol,England
 contract: permanent
 contact:
-    name: <Andrew Gifford>
-    email: <hello@techfolk.co.uk>
-    phone: <+44(0)117 318 2447>
-created: !!timestamp '2015-06-01' <- The date the job was submitted
+    name: Andrew Gifford
+    email: hello@techfolk.co.uk
+    phone: +44(0)117 318 2447
+created: !!timestamp 2015-06-22
 tags:
   - Bristol
-  - england
+  - England
   - uk
-  - python
+  - Python
+  - Go
+  - Golang
   - containers
   - containerisation
+  - containerization
   - asynchronous
   - Twisted
   - Asyncio
@@ -28,11 +31,13 @@ tags:
 
 ---
 
-# Senior / Lead Software Engineer - ClusterHQ
+Senior / Lead Software Engineer - ClusterHQ
 
 Your challenge
 
-This is your chance to be part of something new, where you can have a voice and be recognised for defining and building disruptive cloud technology. Containers will impact infrastructure, application architecture and software delivery as fundamentally in the coming years as virtualization has in the last decade. 
+ClusterHQ has just released Flocker v1.0, providing the data layer for Docker, and needs needs you to help define and build next generation software in the exciting and disruptive domain of containerisation.
+
+This is your chance to be part of something new, where you can have a voice and be recognised for defining and building new cloud technology. Containers will impact infrastructure, application architecture and software delivery as fundamentally in the coming years as virtualisation has in the last decade. 
 
 You can lead on, or contribute to, product and technical architecture, software design, implementation, and mentoring and pairing with less experienced engineers.
 
@@ -42,13 +47,12 @@ ClusterHQ is offering relocation to Bristol, UK, which is fast becoming the clou
 
 About you
 
-- You’re ready for a progressive job as a Senior Engineer, Technical Lead or Architect
-- You can build and maintain high quality, fault tolerant, scalable distributed software systems 
+- You’re ready for a progressive role as a Senior Developer, Technical Lead or Architect
 - You’re skilled in event-driven asynchronous programming 
-- You bring knowledge of domains such as: networking, cloud, clustering, virtualization, storage, middleware, OS development, orchestration, micro services, containers etc.
-- You have advanced coding skills, using languages such as: C/C++ | Erlang | Fortran | Golang | Haskell | Java | Python | Scala | Ruby | etc.
-- You may have encountered technologies such as: Docker | Kubernetes | CoreOS | Oracle Coherence | Node.JS | Tornado | gevent | Twisted | Tulip | Java Message Server | Java Spaces | asyncio | AKKA | Atmosphere | Autobahn | Apache Camel | Asio | Klein | Netty | OpenVZ etc.
+- You bring knowledge – commercial or open source - of domains such as: networking, cloud, clustering, virtualisation, storage, middleware, OS development, orchestration, micro services, containers etc.
 - You work openly and inclusively, and you enjoy code reviews and sharing ideas
+- You have advanced coding skills, using languages such as: C/C++ | Erlang | Go | Golang | Haskell | Java | Python | Scala | Ruby | etc.
+- You may have encountered technologies such as: Docker | Kubernetes | CoreOS | Oracle Coherence | Node.JS | Tornado | gevent | Twisted | Tulip| Klein | Netty | Java Message Server | JMS | Java Spaces | asyncio | AKKA | ScalaAsync | EventMachine | Async.io | Atmosphere | Autobahn | Apache Camel | Asio | OpenVZ etc.
 
 Salary and benefits
 
@@ -57,8 +61,12 @@ Salary and benefits
 - Discretionary relocation assistance
 - Flexible working | 28 days holiday + public holidays | pension | death in service | income protection | private healthcare | dental care | Cyclescheme | good coffee | on site restaurant
 
-Located: central Bristol, South West UK; 1:45 to London by train
-
 About us
 
-ClusterHQ is a newly funded open source software provider, front and centre of the containerisation world. With five years in R&D and £12m funding from Accel Partners, we make our first major release of Flocker this summer, supporting the Docker ecosystem. Effective software design is at the heart of our organisation and fundamental to our future. Our global team includes accomplished open source contributors on projects such as Twisted and OpenZFS. We invite you to join our world class engineering teams.
+ClusterHQ is a newly funded open source software provider, front and centre of the containerisation world. With five years in R&D and substantial funding from Accel Partners, we’ve just released our first product, Flocker, supporting the Docker ecosystem. Effective software design is at the heart of our organisation and fundamental to our future. Our global team includes accomplished open source contributors on projects such as Twisted and OpenZFS. We invite you to join our world class engineering teams.
+
+Located: central Bristol, South West UK, 1:45 by train from London
+
+Please talk with techfolk, our recruitment partner, to find out more:
+
++44 (0)117 318 2447 | hello@techfolk.co.uk | @we_are_techfolk
