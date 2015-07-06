@@ -8,7 +8,7 @@ We will accept any job postings provided they contain full relevant information.
 
 This jobs board is generated automatically from this git repository, and hosted using github pages.
 
-All adverts are held as markdown files, with an added header, under the jobs/ directory.  Jobs files should look something like this:
+All adverts are held as markdown files, with an added header, under the jobs/ directory.  Jobs files should look something like this, but with the appropriate text inserted in place of the expressions in angle brackets:
 
 ```
 ---
@@ -30,6 +30,33 @@ tags:
 ---
 
 Full job description here, in Markdown format
+```
+
+This is an example of how it might look when filled in. When the document is complete there should be no more brackets and the comment after the timestamp should be removed.
+
+
+```
+---
+title: Intern Django Developer
+company: Sample Company
+url: http://samplecompany.co.uk
+location: Burton on Trent, Staffordshire, England
+contract: permanent
+contact:
+    name: Mrs A. B. Sample
+    email: absample@momsbikes.co.uk
+    phone: +44 0208 123456
+    ...: ...
+created: !!timestamp '2015-07-23'
+tags:
+  - burton
+  - python
+  - sql
+  - django
+  - intern
+---
+
+This is an exciting opportunity... blah blah blah.
 ```
 
 To add your job, submit a pull request to this repo, that adds a single file to the jobs/ directory.  This file should match the example above.
