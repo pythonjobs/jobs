@@ -27,7 +27,8 @@ tags:
   - uk
   - python
   - sql
-  - django <- include as many tags as you want
+  - django 
+  # include as many tags as you want
 ---
 
 # This is a header
@@ -52,7 +53,7 @@ contact:
     email: absample@samplecompany.co.uk
     phone: +44 0208 123456
     ...: ...
-created: !!timestamp '2015-07-23'
+created: !!timestamp '2015-07-23' 
 tags:
   - burton
   - python
