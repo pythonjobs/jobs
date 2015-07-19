@@ -39,6 +39,8 @@ Full job description here, in Markdown format
 Remember
 * Remove the angle brackets (these things: <, >)
 * Update the timestamp to be today's date
+* Don't remove the -- at the beginning and end of the metadata
+* Include a full name and either an email address or a phone number
 
 This is an example of how it might look when filled in:
 
