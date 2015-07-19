@@ -6,7 +6,7 @@ Welcome to the pythonjobs submission repository.  This board has been set up as 
 
 All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files.
 
-You can use this text as a template for your job ad, simply copy this example and modify it for your own post - preserving the indentation:
+All adverts are held as markdown files, with an added header, under the jobs/ directory.  Jobs files should look something like this, but with the appropriate text inserted in place of the expressions in angle brackets:
 
 ```
 ---
@@ -19,19 +19,56 @@ contact:
     name: <Your name (required)>
     email: <Email address applicants should submit to (required)>
     phone: <Phone number (optional)
-created: !!timestamp '2015-02-20' <- The date the job was submitted
+    ...: ...
+created: !!timestamp '2015-02-20' 
 tags:
   - london
   - england
   - uk
   - python
   - sql
-  - django <- include as many tags as you want
+  - django 
+  # include as many tags as you want
 ---
 
 # This is a header
 
 Full job description here, in Markdown format
+```
+Remember
+* Remove the angle brackets (these things: <, >)
+* Update the timestamp to be today's date
+
+This is an example of how it might look when filled in:
+
+```
+---
+title: Senior Python Developer
+company: Sample Company
+url: http://samplecompany.co.uk
+location: Burton on Trent, Staffordshire, United Kingdom
+contract: permanent
+contact:
+    name: Mrs A. B. Sample
+    email: absample@samplecompany.co.uk
+    phone: +44 0208 123456
+    ...: ...
+created: !!timestamp '2015-07-23' 
+tags:
+  - burton
+  - python
+  - sql
+  - django
+  - senior
+  - django
+---
+
+We are looking to recruit a new lead developer for an important fintech/agribuisness/space-travel start up.
+
+Candidates for this role should be fully proficient in Python and SQL, and be fluent in at least seventeen
+modern languages.
+
+Please send a CV to the address above.
 ```
 
 The easiest way to add the job is to [create a new file in our repo](https://github.com/pythonjobs/jobs/new/master/jobs), and simply paste in the text of your job ad.
