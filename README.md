@@ -14,13 +14,13 @@ title: <Job Advert Title (required)>
 company: <Your Company (required)>
 url: http://<Link to your site/a job spec (optional)>
 location: <where is the job based? e.g. London,England>
-contract: permanent (or contract/temporary/part-time ..)
+contract: permanent / contract / part-time
 contact:
     name: <Your name (required)>
     email: <Email address applicants should submit to (required)>
-    phone: <Phone number (optional)
+    phone: <Phone number (optional)>
     ...: ...
-created: !!timestamp '2015-02-20' 
+created: !!timestamp '2015-02-20' # Update this with today's date
 tags:
   - london
   - england
