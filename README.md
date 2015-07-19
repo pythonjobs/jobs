@@ -14,7 +14,8 @@ title: <Job Advert Title (required)>
 company: <Your Company (required)>
 url: http://<Link to your site/a job spec (optional)>
 location: <where is the job based? e.g. London,England>
-contract: permanent / contract / part-time
+# Choose one of the following options
+contract: permanent / contract / part-time / temporary
 contact:
     name: <Your name (required)>
     email: <Email address applicants should submit to (required)>
