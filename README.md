@@ -22,7 +22,7 @@ contact:
     email: <Email address applicants should submit to (required)>
     phone: <Phone number (optional)
     ...: ...
-created: !!timestamp '2015-02-20' <- The date the job was submitted
+created: !!timestamp '2015-02-20' 
 tags:
   - london
   - python
@@ -31,20 +31,22 @@ tags:
 
 Full job description here, in Markdown format
 ```
+Remember
+* Remove the angle brackets (these things: <, >)
+* Update the timestamp to be today's date
 
-This is an example of how it might look when filled in. When the document is complete there should be no more brackets and the comment after the timestamp should be removed.
-
+This is an example of how it might look when filled in:
 
 ```
 ---
-title: Intern Django Developer
+title: Senior Python Developer
 company: Sample Company
 url: http://samplecompany.co.uk
-location: Burton on Trent, Staffordshire, England
+location: Burton on Trent, Staffordshire, United Kingdom
 contract: permanent
 contact:
     name: Mrs A. B. Sample
-    email: absample@momsbikes.co.uk
+    email: absample@samplecompany.co.uk
     phone: +44 0208 123456
     ...: ...
 created: !!timestamp '2015-07-23'
@@ -53,10 +55,16 @@ tags:
   - python
   - sql
   - django
-  - intern
+  - senior
+  - django
 ---
 
-This is an exciting opportunity... blah blah blah.
+We are looking to recruit a new lead developer for an important fintech/agribuisness/space-travel start up.
+
+Candidates for this role should be fully proficient in Python and SQL, and be fluent in at least seventeen
+modern languages.
+
+Please send a CV to the address above.
 ```
 
 To add your job, submit a pull request to this repo, that adds a single file to the jobs/ directory.  This file should match the example above.
