@@ -20,16 +20,13 @@ contact:
     name: <Your name (required)>
     email: <Email address applicants should submit to (required)>
     phone: <Phone number (optional)>
-    ...: ...
+    <additional contact fields>: <additional value>
 created: !!timestamp '2015-02-20' # Update this with today's date
 tags:
-  - london
-  - england
-  - uk
   - python
   - sql
   - django 
-  # include as many tags as you want
+  # include relevant tags
 ---
 
 # This is a header
@@ -55,16 +52,16 @@ contact:
     name: Mrs A. B. Sample
     email: absample@samplecompany.co.uk
     phone: +44 0208 123456
-    ...: ...
 created: !!timestamp '2015-07-23' 
 tags:
-  - burton
+  - uk
   - python
   - sql
   - django
   - senior
-  - django
 ---
+
+# Overview
 
 We are looking to recruit a new lead developer for an important fintech/agribuisness/space-travel start up.
 
@@ -72,6 +69,14 @@ Candidates for this role should be fully proficient in Python and SQL, and be fl
 modern languages.
 
 Please send a CV to the address above.
+
+# Role requirements
+
+* Python
+* Django
+* PostgreSQL
+* etc
+
 ```
 
 The easiest way to add the job is to [create a new file in our repo](https://github.com/pythonjobs/jobs/new/master/jobs), and simply paste in the text of your job ad.
