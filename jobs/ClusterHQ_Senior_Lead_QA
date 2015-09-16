@@ -1,4 +1,4 @@
-title: Senior / Lead Software Test Engineer
+title: Lead Software Test Engineer
 company: ClusterHQ
 url: http://techfolk.co.uk/current-jobs/senior-lead-software-test-engineer-central-bristol-tl103
 location: Bristol, England
@@ -7,7 +7,7 @@ contact:
     name: Andrew Gifford
     email: hello@techfolk.co.uk
     phone: +44 (0)117 318 2447
-created: 2015-08-04
+created: 2015-09-16
 tags:
   - Bristol
   - England
@@ -30,41 +30,41 @@ tags:
 
 ---
 
-#Your challenge
+Lead Software Test Engineer
 
-ClusterHQ needs you to help establish QA for next generation cloud software, in the new domain of containerisation.
+ClusterHQ needs you to establish and run QA for open source storage management software in the rapidly evolving domain of Docker and containerisation.
 
-#Your role
+Our product Flocker makes it easier for engineers to meet the data portability requirements of distributed, microservices-based applications, supporting container ecosystems such as Docker.
 
-This is chance to be part of something new, where you can have a voice and be recognised for helping produce disruptive open source container software that will impact infrastructure, application architecture and software delivery as fundamentally in the coming years as virtualisation has in the last decade. 
+This is chance to be part of something new, where you can have a voice and be recognised for helping produce software that will impact infrastructure, application architecture and software delivery as fundamentally in the coming years as virtualisation has in the last decade. 
 
-Joining as our first Lead QA Engineer, we welcome your ability to establish and run a robust QA function as a service, building on the foundations that are serving us well. You’ll have our full support in running good process, getting the most from our tooling and achieving best practice in TDD. We code in Python and Go, using the Twisted network programming framework.
+Joining as our first Lead QA Engineer, we welcome your ability to deliver a robust QA function as a service, building on the foundations that are serving us well. You’ll have our full support in running good process, getting the most from tooling and automation, and achieving best practice in TDD.
 
-Your work will pave the way for other QA colleagues to join you, each dedicated to a product engineering SCRUM team. We will look to you as we hire new team members, as we plan their work, get them up to speed and expand our operation. 
+Your work will pave the way for other Software Test Engineer colleagues to join you, each dedicated to a product engineering SCRUM team. We will look to you as we hire new team members, as we plan their work, get them up to speed and expand our operation. 
 
 ClusterHQ is offering relocation to Bristol, UK, which is fast becoming the cloud computing hub of Europe and is renowned for its high quality of life.
 
-#About you
+About you
 
-•	You have established and run QA for a software product or comprehensive feature set
-•	You are skilled at testing in a technical, system-level, domain e.g. networking, clustering, storage, operating system, middleware, cloud platforms, virtualisation, clustering, microservices, orchestration or containerisation
-•	You can define and implement QA strategies and plans for functional and non-functional testing, e.g. security, integration, performance, scalability
-•	You can identify and implement automated testing approaches using modern frameworks and tools
-•	You enjoy a multi skilled role - running tests and resolving issues, and recording, interpreting and presenting results
-•	You can produce effective test scripts, using languages such as Python, Ruby, Perl, C++, Tcl, Groovy etc.
+You have established and run QA for a software product or comprehensive feature set
+You are skilled at testing in a technical, system-level, domain such as: cloud engineering, networking, middleware, OS development, IaaS, PaaS, SDN, distributed systems, converged systems, virtualisation, clustering, storage, containers, orchestration, microservices, etc.
+You can define and implement QA strategies and plans for functional and non-functional testing, e.g. security, integration, performance, scalability
+You can identify and implement automated testing approaches using modern frameworks and tools
+You enjoy a multi skilled technical role - running tests and resolving issues, and recording, interpreting and presenting results
+You can produce effective test scripts, using languages such as Python, Ruby, Perl, C++, Tcl, Groovy etc.
 
-#Salary and benefits
+Salary and benefits
 
-•	Competitive joining salary
-•	Equity in a fast growing company
-•	Discretionary relocation assistance
-•	Flexible working | 28 days holiday + public holidays | pension | death in service | income protection | private healthcare | dental care | Cyclescheme | good coffee | on site restaurant
+£55,000 - £80,000+ (negotiable)
+Equity in a fast growing company
+Discretionary relocation assistance
+Flexible working | 28 days holiday + public holidays | pension | death in service | income protection | private healthcare | dental care | Cyclescheme | good coffee | on site restaurant
 
-#About us
+About us
 
-ClusterHQ is a newly funded open source software provider, front and centre of the containerisation world. With five years in R&D and substantial funding from Accel Partners, we’ve just released our first product, Flocker, supporting the Docker ecosystem. Effective software design is at the heart of our organisation and fundamental to our future. Our global team includes accomplished open source contributors on projects such as Twisted and OpenZFS. We invite you to join our world class engineering teams. https://clusterhq.com/careers/
+ClusterHQ provides the tools and services necessary for deploying and managing fully containerised stateful applications, simplifying IT processes and delivering on the advantages inherent in containers. We are the Container Data People™. Our engineering team includes accomplished open source contributors, from projects such as Twisted and OpenZFS. We invite you to join us, working on important and topical projects where you can have a voice and be recognised for your work.
 
-Located: central Bristol, near Temple Meads station
+Located: central Bristol, near Temple Meads station; 1:45 by train to London
 
 Please talk with techfolk, our recruitment partner, to find out more:
 
