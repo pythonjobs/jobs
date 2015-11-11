@@ -1,0 +1,32 @@
+---
+title: Senior Python Developer
+company: Osirium
+url: https://www.osirium.com/python-developer-job-spec
+location: Theale, Berkshire, England
+contract: permanent
+contact:
+    name: Andy Harris
+    email: andy.harris@osirium.com
+    phone: +44 118 3242444
+created: !!timestamp '2015-11-11' 
+tags:
+  - uk
+  - python
+  - postgres
+  - ruby on rails
+  - security
+  - senior
+---
+
+# Overview
+
+Osirium are looking to hire a couple of brilliant engineers for their dev team
+
+Please send a github profile to the address above.
+
+# Role requirements
+
+* Python
+* Ruby on Rails
+* PostgreSQL
+* Security
