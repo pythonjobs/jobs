@@ -1,7 +1,7 @@
 ---
 title: Platform Engineer
 company: Sprout Social
-url: http://https://SproutSocial.applytojob.com/apply/aA9Nct/Software-Engineer-Platform.html?source=PythonJobs
+url: http://sproutsocial.applytojob.com/apply/aA9Nct/Software-Engineer-Platform.html?source=PythonJobs
 location: Chicago, IL
 contract: permanent
 contact:
