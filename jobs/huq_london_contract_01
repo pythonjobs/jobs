@@ -1,0 +1,62 @@
+---
+title: Part time freelance Python guru required
+company: Huq Industries
+url: http://huq.io
+location: London, England
+
+contract: permanent part-time
+contact:
+    name: Isambard Poulson
+    email: isambard@huq.io
+    
+created: !!timestamp '2015-11-17'
+tags:
+  - python
+  - sql
+  - django 
+  - ansible
+  - postgres
+---
+
+# Overview
+
+I'm urgently seeking a freelancer to take the reigns on the backend for
+a London based startup's product.
+
+Due to scheduling mishaps I need to give up what is otherwise an
+incredibly fun and engaging project on a great team, however my loss may
+be your gain, so please read on.. :)
+
+Please reply to the above email address with CV and a handful of comments about 
+problems that you can see with, or ways in which you can improve the query linked to in
+the body below
+
+
+# Role requirements
+
+This project would suit someone with good overall Python toolset
+knowledge, at least an exposure to Django (although preferably a bit
+more than that), and an existing knowledge of, or burning desire to see
+PostgreSQL used in extreme anger.
+
+The product is a mobile data analytics platform, consisting of:
+
+* One user-facing Django application serving up an Angular app and
+  implementing it's backing API using Django rest_framework. You do not
+  need to touch the Angular parts, but a passing familiarity may be
+  beneficial.
+
+* One device-facing Django application serving up a separate Django
+  rest_framework API and implementing a bunch of preprocessing logic for
+  incoming impressions.
+
+* A pretty hairy PostgreSQL installation, making heavy use of
+  SQLAlchemy Core to generate reporting queries, along with an Rq-based
+  task queue that maintains consistency between raw impression data and
+  materialized summaries based on the user's filters.
+
+  Example query: https://gist.github.com/dw/c6cf10f83d1ccb9606ff
+
+* Device-side SDKs for Android and iOS. This role does not cover these
+  components, but if you enjoy flexing your Objective C or Java skills,
+  that could be a big plus.
