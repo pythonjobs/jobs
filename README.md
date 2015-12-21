@@ -5,7 +5,7 @@ Welcome to the pythonjobs submission repository.  This board has been set up as 
 ## Submitting an advert
 
 All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files.
-
+ 
 All adverts are held as markdown files, with an added header, under the jobs/ directory.  Jobs files should look something like this, but with the appropriate text inserted in place of the expressions in angle brackets:
 
 ```
