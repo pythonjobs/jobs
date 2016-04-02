@@ -9,7 +9,7 @@ contact:
   email: chintan@percolate.com
   phone: 
   LinkedIn: https://www.linkedin.com/in/cvora
-created: 2:31 PM '2016-02-18'
+created: 2:31 PM '2016-04-02'
 tags:
   - python
   - Django
