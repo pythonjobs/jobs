@@ -29,7 +29,7 @@ On our creative team, you'll be responsible for key technical decisions related 
 
 # Requirements
 
-* 7 years of experience with significant Python development achievements at a senior level. 
+* 7+ years of experience with significant Python development achievements at a senior level. 
 * Experience setting technical direction, contributing to scope and specification, and mentoring less experienced members of the team. 
 * Interests and expertise in building multi-tenant SaaS-based systems, and service-oriented architectures. 
 * Excellent understanding of data structures, algorithms, software engineering design patterns and principles. 
