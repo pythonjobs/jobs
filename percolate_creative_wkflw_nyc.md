@@ -8,7 +8,7 @@ contact:
   name: Chintan Vora
   email: chintan@percolate.com
   phone: 
-  LinkedIn: https://www.linkedin.com/in/cvora
+  https://www.linkedin.com/in/cvora
 created: 2:31 PM '2016-04-02'
 tags:
   - python
@@ -18,8 +18,8 @@ tags:
   - kafka 
   - SaaS
   - elasticsearch
-
 ---
+
 # Senior Backend Engineer -- Creative Workflow
 Percolate is The System of Record for Marketing. Backed by Sequoia Capital, Lightspeed Venture Partners, and GGV, Percolate is one of the fastest growing companies in enterprise software. Percolate’s all-in-one software platform helps marketers plan, create, execute, and analyze their marketing efforts. Over 800 brands including GE, Unilever, MasterCard, and IBM use Percolate to manage their global marketing supply chains. Percolate is doing for marketing what Salesforce did for CRM and SAP did for ERP.
 
