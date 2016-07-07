@@ -1,0 +1,59 @@
+---
+title: Full Stack Developer at Travel Tech Startup
+company: Tab
+url: https://tab.recruitee.com/o/full-stack-developer
+location: London, UK
+# Choose one of the following options
+contract: permanent
+contact:
+    name: Chris Wood
+    email: jobs@tab.travel
+created: !!timestamp '2016-07-07' # Update this with today's date
+tags:
+  - python
+  - postgresql
+  - flask
+---
+
+# About Tab
+
+Tab is a young startup that mixes travel & fintech, and we’re backed by Y Combinator (the incubator/accelerator behind Airbnb, Dropbox and Twitch).
+
+Tab powers bookings and payments for tourist businesses (like hostels, dive schools and surf lodges) in emerging countries. We like doing the hard stuff – that’s why we’re already working with 60+ currencies, across countries like Guatemala, Argentina and Peru.
+
+Our goal is to boost local tourism in emerging countries, while helping backpackers and independent travellers make the most of their precious time abroad.
+
+Our experienced team have backgrounds in startups and finance and are alumni of Cambridge University, Harvard and Y Combinator.
+ 
+# About the Role
+
+As a full-stack developer, you'll be working across our entire platform, from public-facing web apps, to internal tools, APIs, third-party systems & services, and our mobile apps.
+
+You'll be working on many different things! We are focussed on improving the experience for our business & traveller users, but we also care about system stability, supporting internal business intelligence tasks, event analysis and composing infrastructure that lets us deploy rapidly in a way we can trust.
+
+We mostly write Python but also do Java, Swift and JavaScript with React & React Native, on mobile and on the web.
+
+We're building quickly, so things change and requirements evolve, but we try to find the balance between predictable stability (relaxed calm) and rapid development (move-fast-break-things).
+ 
+# Benefits
+Competitive salary, generous equity & flexible hours.
+
+We're early-stage and nimble, so expect the freedom to make a big impact quickly.
+
+# Requirements
+
+We're looking for someone who:
+
+* is excited by the chance to build something new as part of a small team at an early-stage startup within a fun market
+* enjoys coding in multiple languages across different platforms
+* has experience with Unix, git, Postgres (SQL & ORM) and Redis
+* thinks every good feature deserves a unit test or two
+* believes in refactoring (tomorrow will come)
+* has opinions on product design
+* understands the joys and challenges of backpacking!
+
+Ideally, you have years of software development experience across backend systems and the web. Experience with smartphones and other platforms is a bonus.
+
+Tab is based in central London, so you must have the right to work within the UK, but there will be opportunities to travel to exciting places to experience the product and meet users.
+
+To apply, please visit https://tab.recruitee.com/o/full-stack-developer
