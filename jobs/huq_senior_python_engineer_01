@@ -1,0 +1,48 @@
+---
+title: Senior Python Developer
+company: Huq Industries
+url: http://huq.io
+location: London
+contract: permanent
+contact:
+    name: Isambard Poulson
+    email: isambard@huq.io
+created: 2016-08-23
+tags:
+  - python
+  - sql
+  - django 
+  - senior
+---
+
+##Company:
+Huq provides real world, real time consumer insights at unprecedented scale. Huq has built a proprietary and unique technology that leverages mobile data to interpret what consumers do in the real world; where they shop and work, how they travel and when and where they rest. Huq is a well funded young company with a stellar client and partner list.
+
+##Us:
+Huq comprises a compact team of highly capable individuals who are looking for committed engineers to work with as we move through the next phase of our growth and beyond. Our culture is one of working hard and with single minded purpose, not one that maintains a regime of long hours.  We strive for excellence and efficiency, development decisions are thoughtfully taken and resources efficiently used. We work hard to maintain our lightweight and nimble approach that enables us to solve large and complex tasks with minimal overhead. Our working environment is focused, friendly and supportive.
+
+##You:
+The team is very ambitious and so should you be. You will be not only be extremely competent across the range of technologies used in the current stack, but also quick and hungry to learn new things, both technical and conceptual. You will love writing fully tested code that is highly efficient, maintainable and predictable. You will enjoy thinking laterally and finding creative solutions to problems. Your voice will be instrumental in the development decisions made within the team, so you should be ready to bring a wide range of knowledge about available tools and new technologies. You must be able to get on well with others and operate effectively within a small team.
+
+##Role:
+The back end platform consists primarily of two Django applications backed by a Postgres database. The first of these applications provides an API for receiving and processing incoming data from our SDKs which are deployed to a large number mobile devices. The second provides data processing for consumption by a customer facing analytics web front end. The role entails working on the evolution of these two applications together with the underlying database. In the coming months we will be adding a new API and maximising the efficiency and the effectiveness of the current codebase. An in-depth knowledge of database architecture and query optimisation is essential. You should have a hunger to squeeze maximum performance out of all of the components of the system while keeping the codebase as simple as possible. You will have a passion for writing bug-free code that deploys seamlessly in a continuous integration environment. Huq is a process of rapid scale and we anticipate to soon be processing billions of data points per month; as such you should have experience of and be comfortable dealing with extremely large database solutions and migration between data structures. Experience of working with distributed databases would be highly desirable.
+
+##Location:
+We are located in Central London. You will be required to be onsite for the majority of the time.
+
+##Salary:
+Market rate, dependent upon experience. Share options available.
+
+##Essential skills:
+Linux
+Python & virtualenv 
+Django
+GIS
+Relational and NoSQL Databases
+TDD
+Continuous Integration
+Data warehousing 
+
+##Desirable skills:
+Django rest_framework
+Encryption
