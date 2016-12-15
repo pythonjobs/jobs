@@ -18,6 +18,8 @@ tags:
   - heroku
   - elasticsearch
   - redis
+  - AWS
+  - docker
 
 ---
 
@@ -34,28 +36,28 @@ We value independence and you will be given a lot of autonomy; our ultimate meas
 
 # Responsibilities
 
-Taking ownership of particular features during key phases of development
-Ongoing development and maintenance of YJ codebase
-Work closely with the UX and design team
-Participate in code reviews
-Maintain best practices
-Contribute to YJ’s open source projects
+* Taking ownership of particular features during key phases of development
+* Ongoing development and maintenance of YJ codebase
+* Work closely with the UX and design team
+* Participate in code reviews
+* Maintain best practices
+* Contribute to YJ’s open source projects
 
 # Requirements
 
-Experience working with a large existing Django codebase
-Experience of test-driven development
-Experience working on a full application (+ 12months)
-Excellent Python (2.x and ideally 3.x) and Django (1.8+)
-Competent HTML, CSS and JavaScript (including jQuery
+* Experience working with a large existing Django codebase
+* Experience of test-driven development
+* Experience working on a full application (+ 12months)
+* Excellent Python (2.x and ideally 3.x) and Django (1.8+)
+* Competent HTML, CSS and JavaScript (including jQuery
 
 # Bonus points for
 
-ElasticSearch
-Postgresql
-Heroku
-Docker
-Vagrant
-AWS
+* ElasticSearch
+* Postgresql
+* Heroku
+* Docker
+* Vagrant
+* AWS
 
 Please email your CV to estella@yunojuno.com
