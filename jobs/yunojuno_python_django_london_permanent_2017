@@ -1,8 +1,8 @@
 ---
-title: Platform Developer - python / django - 
+title: "Platform Developer - Python / Django"
 company: YunoJuno
 url: http://www.yunojuno.com
-location: London,England
+location: London, England
 
 contract: permanent
 contact:
@@ -15,8 +15,12 @@ tags:
   - Postgresql
   - django 
   - UK
+  - heroku
+  - elasticsearch
+  - redis
 
 ---
+
 # Overview
 
 YunoJuno was founded by employers and freelancers from the creative and tech industry to redefine the Future of Work. We came together because we believe that the global shift towards freelancing needs an equally dramatic shift in the way talented freelancers are supported, promoted and employed.
@@ -55,4 +59,3 @@ Vagrant
 AWS
 
 Please email your CV to estella@yunojuno.com
----
