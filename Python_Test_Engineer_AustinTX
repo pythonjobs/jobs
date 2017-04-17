@@ -1,0 +1,32 @@
+title: Test Engineer
+company: Confidential
+location: Austin, TX
+contract: 6 month
+contact:
+    name: Trevor Jenkins
+    email: tjenkins@apexsystemsinc.com
+    phone: e-mail first
+created: !!timestamp '2015-12-18' 
+tags:
+  - Austin, TX
+  - Python or similar scripting language
+  - Test Automation
+  - SQL
+  - GIS
+---
+
+# Overview
+
+International leader in the IT industry has multiple openings for Test Engineers in Austin, TX
+
+Candidates for this role should be proficient in Python and SQL. This role will be developing automated test scripts in Python
+for testing integrity of large data sets
+
+Please send a CV to the address above.
+
+# Role requirements
+
+* Python/Ruby/Groovy/Perl/C++
+* SQL
+* Added bonus for GIS experience
+* Added bonus for Hadoop experience
