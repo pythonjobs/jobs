@@ -1,0 +1,57 @@
+---
+title: Senior Python Developer
+company: QuoScient GmbH
+url: http://quoscient.io
+location: Frankfurt am Main, Germany
+contract: permanent
+contact:
+    name: Ina Klemm
+    email: careers@quoscient.io
+created: !!timestamp '2017-03-01' 
+tags:
+  - germany
+  - python 3
+  - cyber security
+  - NoSQL
+  - senior
+  - OOP
+  - Git
+  - Unix
+---
+
+# Overview
+
+QuoScient is a specialist in Information Security Services. We are providing security integration support, incident response consultancy and a distributed analysis platform that is supporting collaboration and information sharing.  
+ 
+We support customers with understanding, responding and also anticipating threats, targeting them, their clients and industry peers. We develop collaborative tools and methods enabling teams to monitor, detect and counter these threats more efficiently and anticipatively.   
+ 
+To support that vision QuoScient is implementing a state of the art distributed platform where threat and incident information meet a synergy of security operation tools from malicious artifact analysis to threat intelligence modeling
+
+# Role
+
+To strengthen our Development Team based in Frankfurt, we are looking for experienced  
+ 
+Senior Python developers (m/f)  
+ 
+to start immediately on a permanent contract. 
+ 
+In this role you will be part of a team of experienced developers and you will be working independently on a Python 3 based system, delivering a distributed data management system at scale.  You will have the opportunity to experiment and learn on a wide range of architecture, engineering and development projects, from collecting information and growing large data sets down to highly specialized analytic and machine learning applications. You will furthermore have a direct influence on building agile support systems for a cutting edge information security operation capability, enabling us to actively defend our customers against the various threats aiming at their businesses.  
+
+# Role requirements
+
+* Professional programing experience in a team, experience with distributed and asynchronous systems, as well as experience with designing system interface
+* Python 3 development & Object Oriented Programing as well as Git as a VCS/SCM
+* Needs to be familiar with *nix systems design, scripting & administration 
+* Ideally RDBMS experience at scale and NoSQL knowledge and experience 
+* JavaScript & User Interface development and other programing & scripting languages are a plus 
+* Ideally experience in Network Programing as well as Low level code & reverse engineering 
+* Fluency in English is required, German is advantageous.
+
+# How to apply
+
+We work to maintain the best possible environment for our employees, where people can learn and grow with the company. We strive to provide a collaborative, creative environment where each person feels encouraged to contribute to our processes, decisions, planning and culture. 
+We are looking for self-motivated individuals who enjoy working in small teams and value autonomy and professional excellence. 
+ 
+For questions and applications please reach out to Ina on careers@quoscient.io. Please attach your CV and links to any open source involvements. We look forward to hearing from you.  
+ 
+Candidates need to be entitled to work in the EU. We kindly ask recruitment agencies not to get in touch.
