@@ -29,7 +29,7 @@ tags:
   # include relevant tags
 ---
 
-# This is a header
+# Lines like this, which begin with # are headings
 
 Full job description here, in Markdown format
 ```
@@ -38,6 +38,7 @@ Remember
 * Update the timestamp to be today's date
 * Don't remove the -- at the beginning and end of the metadata
 * Include a full name and either an email address or a phone number
+* Start any line you want to be a heading with a # followed by a space
 
 This is an example of how it might look when filled in:
 
@@ -110,6 +111,10 @@ Yes, but you must include the name of your client - where the candidate will ult
 
 Edit the page and make a pull request directly from GitHub.
 
+### Can somebody else change a job I posted?
+
+Yes, anybody can change anything but all changes have to be reviewed before they are published. Sometimes the site's curators will edit a job advert to improve spelling, grammar or style. 
+ 
 If you don't know how to do this please raise an issue via the GitHub issue tracker: https://github.com/pythonjobs/jobs/issues
 
 ### Why all this GitHub stuff? Can you add a form to submit jobs instead?
