@@ -9,4 +9,4 @@ after_script:
   - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && ../template/deploy.py || false'
 env:
   global:
-    secure: rbKKRjTkVgPidtxLGLR7wqh1PZHArlksitDkE1hZN6I6vt0/OJKDYxSm49C9TcS8tyBKqT5Prnrz6VqjWLW7E0YNwDFvliH445S2DzCj8jvMbCZK+PbcKNZbosakBIj2O1qCANoeWenh6Gjo6mX5nFozZx76OtFD71RSOVWko8s=
+    secure: "bDmv/ruQaria2wzcl6wIh5Q/SW83QTFe9Mkw6WClcNV3P1tSe/Lyiyreu3kUrhFwXcmaVvFyGqGQ0EvMqAQ/eB4BbfVI2qey1ujOgcqS51f9MBsvWnyKK/kz3oerkYII4sk/HXPR7UiJc05ATAVCwjMPVl2OjhMey0xL/YTPi+E="
