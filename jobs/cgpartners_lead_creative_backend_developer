@@ -1,0 +1,51 @@
+---
+title: Lead Creative Back-end Developer
+company: C&G Partners
+url: http://cgpartnersllc.com
+location: New York, NY, USA
+contract: project-based and permanent opportunities available
+contact:
+    name: Careers at C&G Partners
+    email: backenddev@cgpartnersllc.com
+    phone: (212) 532-4460
+created: !!timestamp '2017-06-20' 
+tags:
+  - nyc
+  - python
+  - django
+  - senior
+  - backend
+  - elasticsearch
+  - solr
+  - linux
+---
+
+# Overview
+
+C&G Partners is a multi-specialty creative studio, dedicated to design for culture — from cultural organizations to organizational culture. We focus on design and user experience, making sure that our creations are elegant, engaging, seamlessly integrated, and efficient. We follow industry standards and best practices, and ensure that our work is not just visually appealing, but also well-built.
+
+We follow a rigorous design and development process to ensure the highest quality and we incorporate testing, monitoring, and documentation in every project. In our day to day work, we encourage exploring new methodologies and insights to improve our processes, and we are always learning and growing so we look to each team member to contribute in every way.
+
+We are seeking an experienced creative back-end developer to help lead projects through the entire design process—from concept discovery to implementation. As a member of our digital team, you will help build applications for both web and non-web projects.
+
+# Requirements
+* Three or more years of experience in back-end development
+* Experience in full-stack web development, with a good understanding of server-side and client-side performance optimization
+* Experience designing multi-tier architecture
+* Experience developing RESTful/MVC back-end frameworks, such as for Django, Ruby on Rails, or Symfony (we use Django)
+* Experience in making CMS interfaces more user-friendly
+* Experience configuring Linux-based web servers
+* Experience configuring databases like MySQL or Postgres
+* Experience developing custom search (Elasticsearch, Solr, etc.)
+* Experience with AWS and other cloud-based services
+* Experience integrating third-party APIs
+* Experience in configuring, deploying, and maintaining server-side infrastructure
+
+# Bonus Experience
+* Developing in other CMSs such as Drupal, .Net, CodeIgniter, Symfony, WordPress, etc.
+* Agile development and feature branch workflow
+* Continuous integration
+* Build automation (we have existing SaltStack projects)
+* Familiarity with popular front-end frameworks such as React, Angular, Backbone, Ember, etc.
+
+Compensation commensurate with salary history. Please provide resume, portfolio link, and professional references to: backenddev@cgpartnersllc.com with "Lead Developer" in the subject line. Email replies only please.
