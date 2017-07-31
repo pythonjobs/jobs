@@ -1,0 +1,80 @@
+---
+title: Co-Founder/CTO
+Company: Forward Partners
+Url: https://jobs.lever.co/forwardpartners/76b61e2a-a766-4fae-9cd1-966f4e3c8745?lever-origin=applied&lever-source%5B%5D=GitHub
+Location: London,England
+contract: permanent
+contact:
+    name: Chris Wilkinson
+    email: chris@forwardpartners.com
+    Phone: N/A
+    
+created: !!timestamp '2017-08-01'
+tags:
+  - python
+  - postgres
+  - django 
+ 
+---
+
+# FORWARD PARTNERS
+
+Forward Partners is the UK's largest  largest dedicated seed stage VC with >£80m AUM. We focus on next-generation eCommerce companies and applied AI startups. Startups that we have backed include: Thread, Zopa, Appear Hear, LostMyName, and Big Health.
+A large part of what we do here at Forward Partners involves investing in 'pre-seed' (idea) stage startups. Usually these pre-seed stage startups are founded by non-technical, solo founders with deep subject matter expertise. Not only do we invest in these companies but we also provide them with 12 months rent free access to our offices (a co-working space a moments walk away from Old Street roundabout in East London) and access to a team of experts. This team of experts covers all the major functions from product management, design and UX through to software development, PR & comms, ops and talent. Over the 12 months these founders are with us we help them build an MVP, scale it and get them to a point where they are raising a significant institutional VC round at a multi-million dollar valuation. We have done this for companies such as Appear Here, Patch, Live Better With, and Lexoo. 
+Typically at month 6 - 12 the main requirement is to find a technical Co-founder/CTO to pick up from where our team left off and help raise the series A and help build a world-class business in the process. 
+If you are entrepreneurially minded, want to get involved in a start-up at a stage where you can really make a difference and make significant upside (but don't want to take too much of a risk on an unproved idea and need a salary to survive) then register your interest here. 
+
+6 opportunities a year.
+
+
+# TYPICAL TECHNOLOGY STACK
+
+The current technology platform operates on a world class, highly scalable python-oriented stack, setup by the Forward Partners technical team. Continuous integration and deployment processes are already in place, allowing us to continuously deliver value to our customers. The technologies currently in use include: Python, Django, PostgreSQL, Redis, Celery, RabbitMQ, React, MobX, Webpack. The local development environment is built on top of Docker and the production environment is fully powered by Amazon Web Services (EC2, S3, RDS, ElastiCache, Route53, ELB, among others)
+The ideal candidate should be familiar with all or most of those technologies.
+
+
+# SUMMARY OF RESPONSIBILITIES 
+
+ - Build things and ship code. He or she will be hands-on with writing and submitting lines of code on a daily basis.
+
+ - Define the overall technology strategy and budget, leading the architecture and delivery of an in-house, scalable platform.
+
+ - Ensure scalability and robustness of the platform, identifying and driving continuous improvements.
+
+ - Ensure company technical challenges are resolved in a timely and cost-effective manner.
+
+ - Hire, direct, coach and inspire a high-calibre technical team taking a hands-on approach where necessary e.g. conducting code reviews and driving release schedule.
+
+ - Embed an agile software development methodology, taking a lead to ensure a culture of continuous iteration and collaboration flows through the entire organisation.
+
+ - Participate in key management decisions regarding product 
+
+ - Maintain up-to-date knowledge of technology standards, trends, emerging technologies and software development best practices.
+
+ - Ensure that technology standards and best practices are maintained across the organisation as it starts to scale.
+
+ - Share knowledge, mentor, and educate the organisation’s investors, management, staff and stakeholders with regard to the company’s technology vision, opportunities and challenges.
+
+ - Reports to investors/shareholders with detailed monthly presentations on technical progress and data integrity.
+
+
+# YOUR GENERAL CHARACTERISTICS
+
+You are a self-starter, who will be used to working in a hands on and pragmatic manner
+
+Whilst you can develop thoughtful and strategic plans, you have a bias towards action and you naturally execute at pace with a focus on results
+
+You are not rattled by ambiguity and change, and you have the resilience to deal with ups and downs and keep a steady head throughout
+
+You have a positive attitude and mindset, and when things go wrong you automatically start to look for solutions
+
+You are only satisfied with excellence in all you do, and you motivate others to maintain the same highest standards
+
+
+# WHAT IS ON OFFER
+
+Significant double digit equity.
+
+Competitive salary: £80 - £100k based on equity stake and experience.
+
+
