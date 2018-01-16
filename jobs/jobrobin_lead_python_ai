@@ -1,0 +1,51 @@
+title: Lead Python Developer at AI startup
+company: JobRobin
+url:
+location: Boston, Massachusetts
+# Choose one of the following options
+contract: permanent
+contact:
+    name: Chris Coscia
+    email: chris@jobrobin.co
+
+created: !!timestamp '2017-01-16' # Update this with today's date
+tags:
+  - python
+  - sql
+  - microservices
+---
+
+# About the Company & Role:
+Our partner is a funded, AI startup with active clients and an exceptional team.  
+They are looking for a lead python developer with experience building and deploying products using microservice architecture.  
+This role is a breakout role for a highly motivated and confident candidate with multiple years of similar experience.  
+
+As the third engineer on the team, you will make a significant impact on the design and development of the company’s core product, work directly with the founders, and be looked to as a leader while the company expands throughout 2018.  
+This role will focus on building new micro-services for the product, and improving the viability of existing micro-services.
+To be considered an exceptional candidate, your background will feature technical expertise demonstrated through real world application. You have strong OOP and software design knowledge. 
+You can create systems that will scale over time, and build resiliency into a system that will rapidly gain complexity.
+
+# Role Specifics:
+
+Application of domain expertise as a Python Developer, with ability to grasp new industries, technologies, and problems that may be beyond the scope of previous experiences. 
+
+•	Building scalable software
+•	Design and modify system architectures
+•	Implement cause and effect baselines
+•	Deep understanding of confidence intervals, error measurements etc.
+•	Creative problem solving approach
+•	Business and client management proficiency- lead discussions, explain findings and challenges, inspire confidence
+
+# Core Competencies:
+
+•	Bachelors or Master’s degree in corresponding field
+•	Two or more years of industry experience
+•	Exceptional ability in Python
+•	Proficiency in machine learning libraries and tools (nltk, scikit, tensorflow, spacey, pytorch)
+•	Proficiency in SQL or NoSQL
+•	Development in AWS for security and data protection
+•	Deployment in a CI/CD environment 
+
+# Preferred Qualifications:	
+•	Comprehensive understanding of scalable backend applications to support a growing product
+•	Business experience in NLP-driven applications
