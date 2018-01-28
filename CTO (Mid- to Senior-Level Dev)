@@ -1,0 +1,54 @@
+---
+title: CTO (Mid- to Senior-Level Backend Developer)
+company: Nightly.travel
+url: http://www.nightly.travel/
+location: London, UK
+# Choose one of the following options
+contract: Full Time 
+contact:
+    name: David
+    email: jobs@nightly.travel
+created: !!timestamp '2018-01-28' 
+tags:
+  - Python
+  - Django 
+  - Heroku
+  - Javascript
+  - HTML
+  - CSS
+  
+---
+
+# About Nightly.travel:
+Nightly.travel is a hotel booking website with a twist, offering travellers the opportunity to stay in two hotels for less than the price of one. By switching hotels once during their stay, travellers can save as much as 70% vs. a single hotel stay, enjoy higher quality hotels for less, and experience more from the cities they want to visit.
+
+The Nightly.travel magic is powered by our proprietary algorithm which mixes and matches prices for hotels at travellers' destinations in the best possible combinations such that they can save vs. single hotel stays. At the time of booking travellers always know when their switch will occur and what hotels they will stay in so they can lock in their savings and plan ahead.
+
+# About the role:
+As CTO of a company just barely out of bootstrapping, you will be expected to get your hands dirty and essentially improve on the existing product by rolling up your sleeves and working with the co-founders to translate the product vision into reality.
+
+We think the ideal candidate is a Mid- to Senior-Level Developer that is a coding guru wanting to experiment, break things, and then rebuild them, but hasn't been given that opportunity in more traditional environments where he/she has been given a small piece of a larger pie to work on. At Nightly.travel, you'll be working on the whole thing and the responsibility will be all yours! We won't know the answers, so you'll have to come up with them. In essence, you'll be expected to punch above your weight, and the challenge should appeal to you.
+
+Equity is available for this role: you will be a key member of the senior team, so you should have skin in the game.
+
+# Required hard and soft skills:
+ - Python on Django
+ - Solid Backend Dev (comfortable with Frontend as well, but clear strength in Backend) 
+ - Experience integrating with 3rd party APIs 
+ - Comfortable translating Tech language into layman's terms and vice versa 
+ - Ability to lead a small team (it is just you at the moment but eventually you will have a team) 
+ - Passion for creating things from scratch 
+ - Demonstrated ability to break complex problems down into simple solutions
+
+# Nice to haves:
+- Machine Learning on Python or other language 
+- Travel sector experience
+- B2C experience
+
+# Qualities we value:
+- Humility 
+- Integrity - do what you say, and say what you do 
+- Curiosity - ask questions... it's free! 
+- Passion - it doesn't matter in what, just be passionate about something! 
+- Camaraderie - enjoy working with others towards a common goal
+
