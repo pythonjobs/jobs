@@ -2,7 +2,7 @@ language: python
 python:
 - '2.7'
 install:
-  - git clone https://github.com/pythonjobs/template.git ../template
+  - git clone --depth 1 https://github.com/pythonjobs/template.git ../template
   - pip install -r ../template/requirements.txt
 script: ../template/build.py .
 after_script:
