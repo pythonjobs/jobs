@@ -1,0 +1,12 @@
+# Copyright (C) 2018 Sebastian Pipping <sebastian@pipping.org>
+# Licensed under the MIT license
+
+version: "3"
+
+services:
+  pythonjobs:
+    build: .
+    ports:
+      - 50080:80
+    volumes:
+      - ./jobs:/root/pythonjobs/jobs

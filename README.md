@@ -159,7 +159,16 @@ Sure, here: http://www.seethestats.com/site/pythonjobs.github.io
 
 ### Can I run the site locally to preview my submission?
 
-The easiest way to preview your submission is to build the site locally. You can use almost the exact same process we use to build the site on your own PC:
+The easiest way to preview your submission is to build the site locally.
+If you have Docker and [docker-compose](https://docs.docker.com/compose/) installed, run
+
+```console
+$ docker-compose up
+```
+
+and browse to http://127.0.0.1/50080/ once it says it's serving.
+
+Alternatively, you can use almost the exact same process we use to build the site on your own PC:
 
 1. Install hyde - hyde.github.io <code>pip install hyde</code>
 2. Install fin - <code>pip install fin</code>
