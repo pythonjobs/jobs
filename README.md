@@ -166,7 +166,7 @@ If you have Docker and [docker-compose](https://docs.docker.com/compose/) instal
 $ docker-compose up
 ```
 
-and browse to http://127.0.0.1/50080/ once it says it's serving.
+and browse to http://127.0.0.1:50080/ once it says it's serving.
 
 Alternatively, you can use almost the exact same process we use to build the site on your own PC:
 
