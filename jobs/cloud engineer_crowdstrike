@@ -1,0 +1,88 @@
+---
+title:Senior Cloud Engineer with Python
+company: CrowdStrike
+url: https://www.crowdstrike.com/careers/?p=job%2FoQ3F6fwo
+location: Bucharest,Romania
+# Choose one of the following options
+contract: permanent 
+contact:
+    name: Ana Robu
+    email: ana.robu@crowdstrike.com
+
+ 
+created: !!timestamp '2015-02-20' # Update this with today's date
+tags:
+  - python
+  - AWS
+  - Go
+  # include relevant tags
+---
+
+# Lines like this, which begin with # are headings
+
+Full job description here, in Markdown format
+CrowdStrike is looking to hire a Senior Cloud Engineer to build large scale cloud-based cybersecurity systems using Golang, Python, Cassandra, Elasticsearch, AWS.
+
+We’re looking for a highly-technical, hands-on engineer who loves to operate at scale and build globally distributed, fault tolerant and highly scalable cloud-based critical systems.
+
+About Us
+CrowdStrike is a leading provider of next-generation endpoint protection, threat intelligence, and pre/post incident response services. We are the fastest growing endpoint protection company, one of the World's Most 50 Innovative Companies according to MIT, and one of Forbes Most Promising Companies. Our growth and innovation are driven by incredible employees who deliver unmatched customer success. 
+
+At CrowdStrike we operate a massive cloud platform that protects our customers from a variety of bad actors: cyber criminals, hacktivism and state sponsored attackers. We process tens of billions of events a day and we store and use petabytes of data.
+
+ 
+You will…
+
+Lead backend engineering efforts from rapid prototypes to large-scale application services across CrowdStrike products
+Make it possible for internal teams to easily work with data at the petabyte scale
+Leverage and build cloud based services to support our top rated security intelligence platform
+Work with security researchers to troubleshoot time-sensitive production issues
+Keep petabytes of critical business data safe, secure, and available
+Brainstorm, define, and build collaboratively with members across multiple teams
+Obsess about learning, and champion the newest technologies & tricks with others, raising the technical IQ of the team
+Be mentored and mentor other developers on web, backend and data storage technologies and our system
+Constantly re-evaluate our product to improve architecture, knowledge models, user experience, performance and stability
+Be an energetic ‘self-starter’ with the ability to take ownership and be accountable for deliverables
+Use and give back to the open source community
+ 
+
+You'll use…
+
+Golang
+Python
+Cassandra
+Kafka
+Elasticsearch
+SQL
+Redis
+ZMQ
+Hadoop
+AWS Cloud
+Git
+Qualifications:
+
+Bachelor's Degree in Computer Science (or commensurate experience in data structures/algorithms/distributed systems)
+The ability to design scalable and re-usable SOA services
+The ability to scale backend systems – sharding, partitioning, scaling horizontally are second nature to you
+The desire to ship code and the love of seeing your bits run in production
+Deep understanding of distributed systems and scalability challenges
+Deep understand multi-threading, concurrency, and parallel processing technologies
+Team player skills – we embrace collaborating as a team as much as possible
+A thorough understanding of engineering best practices from appropriate testing paradigms to effective peer code reviews and resilient architecture
+The ability to thrive in a fast paced, test-driven, collaborative and iterative programming environment
+The skills to meet your commitments on time and produce high quality software that is unit tested, code reviewed, and checked in regularly for continuous integration
+
+Bonus points awarded for:
+
+Contributions to the open source community (GitHub, Stack Overflow, blogging)
+Existing exposure to Go, Scala, AWS, Cassandra, Kafka, Redis, Splunk
+Prior experience in the cybersecurity or intelligence fields
+  
+
+Bring your experience in distributed technologies and algorithms, your great API and systems design sensibilities, and your passion for writing code that performs at extreme scale. You will help build a platform that scales to millions of events per second and Terabytes of data per day. If you want a job that makes a difference in the world and operates at high scale, you’ve come to the right place.
+
+
+
+CrowdStrike is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.
+
+ 
