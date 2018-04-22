@@ -97,7 +97,7 @@ If something went wrong, you can edit the file again, and resubmit.
 
 ### How do I see the job board?
 
-Go here: [The Free Python Job Board](http://pythonjobs.github.io/)
+Go here: [The Free Python Job Board](https://pythonjobs.github.io/)
 
 ### I'm in ${Country}, can I use this site?
 
