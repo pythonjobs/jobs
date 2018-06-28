@@ -1,0 +1,46 @@
+---
+title: Back-end Developer who isnt afraid of the front-end # Job Advert Title (required)
+company: Krit # Your Company (required)
+url: https://builtbykrit.com #<Link to your site/a job spec (optional)>
+location: Charleston, SC (Remote optional) # where is the job based? e.g. London,England
+          # Choose one of the following options
+contract: permanent # permanent / contract / part-time / temporary
+contact:
+    name: Andrew Askins # Your name (required)
+    email: andrew@builtbykrit.com # Email address applicants should submit to (required)
+    phone: 803-673-2863 # Phone number (optional)
+    # <additional contact fields>: <additional value>
+created: !!timestamp 2018-04-25
+tags:
+  - python
+  - postgresql
+  - django
+  - ember.js
+  # include relevant tags
+---
+
+We're a startup turned app development shop. Our small, growing team partners with non-technical founders to design and build innovative new products.
+
+We're not out to build the next Snapchat. Instead, we create beautiful, niche software tools for B2B startup founders that can grow into profitable companies. We work on a handful of new projects every year across a variety of industries – tackling challenging problems to make "boring" software feel sexy.
+
+Last year, we made $260,000 in revenue as a company. This year (with your help) we're on track to make over $350,000. Our clients’ products have been used by brands like Dropbox, Lyft, the NFL, Red Bull, Yale University and more.
+
+## Who we're looking for
+We're looking for a talented backend developer to take the lead on two new projects. We use Django on most projects but have also used Flask and Node as back-end frameworks. If you're fresh out of college or a code-school, then this probably isn't the right fit. Someone who's in a junior role and is ready to take on more responsibility or is more senior, but loves working on a small team could be a great fit. 
+
+Experience with an opinionated framework is a must. But if Django isn't your cup of tea we're open to working with Rails, Phoenix, etc.
+
+Because we're a small team working on a wide variety of projects, you’ll have to be comfortable jumping around and learning new skills with us. You don't have to be a unicorn. You do need to be willing to step in and help out on the front end. 
+
+Communication is the key to just about everything in life, and this job is no different. We value communication skills over intense experience building scalable applications.
+
+If this sounds like you, then consider applying! You’d be a great fit if:
+- You are comfortable working with an opinionated framework like Django, Rails or Phoenix.
+- You’re able to make smart architectural choices and balance the trade-offs that come with building a Minimum Viable Product.
+- You’re comfortable shipping updates almost every day and tweaking things as you go rather than polishing a feature until it’s perfect.
+- You can write well-tested and documented code.
+- You're not afraid of JavaScript and front-end frameworks.
+
+We’re based in Charleston, SC and would prefer to find someone who is here or willing to relocate. But we are open to working remotely with the right candidate.
+
+## To apply [click here: Apply Here!](https://krit.homerun.co/back-end-developer/en)
