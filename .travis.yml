@@ -2,11 +2,12 @@ language: python
 python:
 - '2.7'
 install:
-  - git clone https://github.com/pythonjobs/template.git ../template
+  - git clone --depth 1 https://github.com/pythonjobs/template.git ../template
   - pip install -r ../template/requirements.txt
 script: ../template/build.py .
-after_script:
-  - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && ../template/deploy.py || false'
+after_success:
+  - '[ "${TRAVIS_PULL_REQUEST}" != "false" ] && ../template/preview.py || false'
+  - '[ "${TRAVIS_PULL_REQUEST}" = "false" ] && [ "${TRAVIS_BRANCH}" = "master" ] && ../template/deploy.py || false'
 env:
   global:
-    secure: rbKKRjTkVgPidtxLGLR7wqh1PZHArlksitDkE1hZN6I6vt0/OJKDYxSm49C9TcS8tyBKqT5Prnrz6VqjWLW7E0YNwDFvliH445S2DzCj8jvMbCZK+PbcKNZbosakBIj2O1qCANoeWenh6Gjo6mX5nFozZx76OtFD71RSOVWko8s=
+    secure: "R3cyaiQAroQPGE2YeGB8r0pKn59zAXEURCqidWkIkfPbMrVgiUGwKxooOVLyFPm7Go9Mp749fGBFrw464Yh+3sk2J3SXqjTGUL151V/lFovhK1q3kgQDUipW+ZjpiURu7+cLvz6sxmvQNvpqLNrDtaBWJwVui1Nj0derk/NCPmI="

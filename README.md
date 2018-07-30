@@ -4,8 +4,10 @@ Welcome to the pythonjobs submission repository.  This board has been set up as 
  
 ## Submitting an advert
 
-All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files.
+We're trialling a new online editor for job adverts, aimed at making the submissions process simpler.  To try it out, visit: http://pythonjobs.github.io/editor.html.  When you're ready, click the 'Create Pull Request' button to start the submission process. Everything should proceed as below, but the editor helps to write the markdown part.  Please contact @stestagg if you have any questions/issues.
 
+All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files.
+ 
 All adverts are held as markdown files, with an added header, under the jobs/ directory.  Jobs files should look something like this, but with the appropriate text inserted in place of the expressions in angle brackets:
 
 ```
@@ -29,7 +31,7 @@ tags:
   # include relevant tags
 ---
 
-# This is a header
+# Lines like this, which begin with # are headings
 
 Full job description here, in Markdown format
 ```
@@ -38,6 +40,7 @@ Remember
 * Update the timestamp to be today's date
 * Don't remove the -- at the beginning and end of the metadata
 * Include a full name and either an email address or a phone number
+* Start any line you want to be a heading with a # followed by a space
 
 This is an example of how it might look when filled in:
 
@@ -96,7 +99,7 @@ If something went wrong, you can edit the file again, and resubmit.
 
 ### How do I see the job board?
 
-Go here: [The Free Python Job Board](http://pythonjobs.github.io/)
+Go here: [The Free Python Job Board](https://pythonjobs.github.io/)
 
 ### I'm in ${Country}, can I use this site?
 
@@ -108,10 +111,14 @@ Yes, but you must include the name of your client - where the candidate will ult
 
 ### There's an error or some other problem with one of the job adverts, what should I do?
 
-Edit the page and make a pull request directly from GitHub.
+You can edit the page and make a pull request directly from GitHub. If a page contains personal information or content unsuitable for a job site please raise a ticket.
 
 If you don't know how to do this please raise an issue via the GitHub issue tracker: https://github.com/pythonjobs/jobs/issues
 
+### Can somebody else change a job I posted?
+
+Yes, anybody can change anything but all changes have to be reviewed before they are published. Sometimes the site's curators will edit a job advert to improve spelling, grammar or style. 
+ 
 ### Why all this GitHub stuff? Can you add a form to submit jobs instead?
 
 You don't need to know how to use Git to use Github - you can easily submit a new job [directly from the web-editor](https://github.com/pythonjobs/jobs/new/master/jobs).
@@ -154,7 +161,16 @@ Sure, here: http://www.seethestats.com/site/pythonjobs.github.io
 
 ### Can I run the site locally to preview my submission?
 
-The easiest way to preview your submission is to build the site locally. You can use almost the exact same process we use to build the site on your own PC:
+The easiest way to preview your submission is to build the site locally.
+If you have Docker and [docker-compose](https://docs.docker.com/compose/) installed, run
+
+```console
+$ docker-compose up
+```
+
+and browse to http://127.0.0.1:50080/ once it says it's serving.
+
+Alternatively, you can use almost the exact same process we use to build the site on your own PC:
 
 1. Install hyde - hyde.github.io <code>pip install hyde</code>
 2. Install fin - <code>pip install fin</code>
