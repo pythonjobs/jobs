@@ -8,7 +8,6 @@ contact:
     name: Andy Kilner
     email: jobs@piclo.energy
  
-    # <additional contact fields>: <additional value>
 created: !!timestamp 2019-03-26
 tags:
   - python
