@@ -1,0 +1,75 @@
+---
+title: Experienced Software Developer
+company: Piclo
+url: https://piclo.energy/jobs
+location: London,UK
+contract: Permanent 
+contact:
+    name: Andy Kilner
+    email: jobs@piclo.energy
+ 
+    # <additional contact fields>: <additional value>
+created: !!timestamp 2019-03-26
+tags:
+  - python
+  - PostgreSQL
+  - django
+  - docker
+  # include relevant tags
+---
+
+# Experienced Software Developer
+We’re hiring an Experienced Software Developer to work on both existing and new projects that are transforming the energy industry. You’ll be joining <a href="https://piclo.energy/team">our friendly team</a> at an exciting time, as the first auctions go live on our platform.
+
+## About you
+
+Our ideal candidate meets many - but not necessarily all - of the below criteria:
+
+- You have been building web applications professionally for 4+ years.
+
+- You have knowledge and experience of some, if not all, of our techstack including Python, Django, PostgreSQL, Ansible, Docker, Javascript.
+
+- You have an appetite for contributing to technical architecture and DevOps discussions and a desire to help drive technical decisions. This is a hands-on role with the potential to lead our backend team (tackling API, infrastructure, data & security challenges).
+
+- You are a strong communicator and take pride in explaining complex technical concepts to peers, including non-technical team members.
+
+- You are committed to good practices for continuous delivery including code reviews, testing and documentation.
+
+- You are fluent in English, even if it’s not your first language.
+
+- You are motivated by Piclo’s mission to accelerate the growth of the smart energy grid and excited to join a growing team.
+
+- You have the right to live and work in the United Kingdom.
+
+**Also desirable:**
+
+- Experience in small start­up environments.
+
+- Familiarity with Vue.js (or interested in learning). If you already know HTML, CSS and JavaScript, you’ll pick it up quickly.
+
+- Familiarity with cloud-based platforms (we have an AWS-hosted serverless infrastructure, with continuous integration and delivery).
+
+- Understanding of the energy industry, from the perspective of suppliers, regulator or the networks.
+
+## About the role
+
+We’re looking for an experienced full-stack developer to join our existing team as we scale, maintain and improve the <a href="https://piclo.energy/flex">Piclo Flex platform</a> and deliver other new innovations in smart energy.
+
+In a typical week, you’ll develop new features with a cross-functional team of developers, designers and product managers. You’ll work with our CTO and others to triage and resolve issues as they emerge, with opportunities to dig into the detail and contribute to technology strategy.
+
+Our software stack is comprised of a single-page application built on a Vue.js framework and a backend of Django/Python running on AWS Lambda. We’re currently moving towards a microservice architecture to help us scale (while being mindful of potential pitfalls).<br></br>
+
+- This is a full-time role, and we imagine you’ll work (mainly) office hours.
+- You’ll have the freedom to split your time between our bright, modern office in central London (Old Street/Shoreditch), or work remotely (~2 days per week) once you’re up to speed.
+- Salary £50,000-£60,000 plus equity.
+- Start date ASAP.
+
+**How to apply**
+
+Email jobs@piclo.energy with ‘Software Developer’ in the subject line and tell us about your skills and experience, and why you think you’d be a good fit for this role.
+
+Include a copy of your CV and/or Linkedin profile if you like, as well as links to any relevant public repositories, but we’re most interested in hearing why you think you’re a good match for us and this role in particular.
+
+If we like the look of your application, we’ll invite you for a short telephone interview with our CTO. Promising applicants will be asked to complete a coding challenge early on in the application process.
+
+We welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a pleasant and supportive place to work.
