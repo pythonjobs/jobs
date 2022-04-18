@@ -4,7 +4,7 @@ Welcome to the pythonjobs submission repository.  This board has been set up as 
  
 ## Submitting an advert
 
-We're trialling a new online editor for job adverts, aimed at making the submissions process simpler.  To try it out, visit: http://pythonjobs.github.io/editor.html.  When you're ready, click the 'Create Pull Request' button to start the submission process. Everything should proceed as below, but the editor helps to write the markdown part.  Please contact @stestagg if you have any questions/issues.
+We're trialling a new online editor for job adverts, aimed at making the submissions process simpler.  To try it out, visit: https://pythonjobs.github.io/editor.html.  When you're ready, click the 'Create Pull Request' button to start the submission process. Everything should proceed as below, but the editor helps to write the markdown part.  Please contact @stestagg if you have any questions/issues.
 
 All the adverts on this board are simple text files (in MarkDown format) with an easy to use header (in YAML format). If you want to add a job, just add one of those files.
  
