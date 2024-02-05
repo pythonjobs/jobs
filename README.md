@@ -1,5 +1,4 @@
-# Pythonjobs submission repo [![Build Status](https://travis-ci.org/pythonjobs/jobs.svg)](https://travis-ci.org/pythonjobs/jobs)
-
+# Pythonjobs submission repo ![build](https://github.com/stuaxo/pythonjobs/actions/workflows/main.yml/badge.svg)
 Welcome to the pythonjobs submission repository.  This board has been set up as a community resource to help companies recruit, and candidates find jobs.  There are no charges or fees for posting, and submitting a job advert is simple, and easy to do.
  
 ## Submitting an advert

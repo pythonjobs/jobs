@@ -1,0 +1,48 @@
+name: Python CI
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        python-version: [2.7]
+
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v4
+      with:
+        python-version: ${{ matrix.python-version }}
+
+    - name: Clone template repository
+      run: git clone --depth 1 https://github.com/pythonjobs/template.git ../template
+
+    - name: Install dependencies
+      run: pip install -r ../template/requirements.txt
+
+    - name: Run script
+      run: ../template/build.py .
+
+    - name: Preview or Deploy
+      if: github.event_name == 'pull_request' || (github.ref == 'refs/heads/master' && github.event_name == 'push')
+      run: |
+        if [ "${{ github.event_name }}" == "pull_request" ]; then
+          ../template/preview.py
+        else
+          ../template/deploy.py
+        fi
+
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      CUSTOM_SECRET: ${{ secrets.CUSTOM_SECRET }}
